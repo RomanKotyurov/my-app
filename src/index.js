@@ -8,11 +8,9 @@ import Pict from './components/Pict';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
 <>
+<Pict/>
 <Header/>
 <Title/>
 <Poem/>
-<Pict/>
-
-
 </>
 );
